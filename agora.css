@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+
+#div{
+    color: blue;
+    display: inline;
+    
+    padding-left: 230px;
+}
+
+#h{
+    color: rgb(0, 255, 76);
+}
+
+.panel-body{
+    background-color: red;
+    color: Blue;
+}
+.panel-body:hover{
+    background-color: black;
+    color: yellow;
+}
+.butn{
+    color: red;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+.butn:hover{
+    color: yellow;
+    background-color: red;
+    border: 2px solid yellow;
+}
+
+#join{
+    color: red;
+    background-color: yellow;
+}
+#join:hover{
+    color: yellow;
+    background-color: red;
+}
+#leave{
+    color: red;
+    background-color: yellow;
+}
+#leave:hover{
+    color: yellow;
+    background-color: red;
+}
+#publish{
+    color: red;
+    background-color: yellow;
+}
+#publish:hover{
+    color: yellow;
+    background-color: red;
+}
+#join{
+    color: red;
+    background-color: yellow;
+}
+#join:hover{
+    color: yellow;
+    background-color: red;}
+#unpublish{
+    color: red;
+    background-color: yellow;
+}
+#unpublish:hover{
+    color: yellow;
+    background-color: red;
+}
+#subscribe{
+    color: red;
+    background-color:blue;
+}
+#subscribe:hover{
+    color: yellow;
+    background-color: red;
+}
